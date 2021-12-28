@@ -1,1 +1,1 @@
-# FirstWpfProject
+# MyProjects
