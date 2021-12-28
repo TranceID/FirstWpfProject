@@ -1,0 +1,12 @@
+C:\Users\decei\source\repos\CantSleepProject\PersonalLibrary\bin\Debug\PersonalLibrary.dll
+C:\Users\decei\source\repos\CantSleepProject\PersonalLibrary\bin\Debug\PersonalLibrary.pdb
+C:\Users\decei\source\repos\CantSleepProject\PersonalLibrary\obj\Debug\PersonalLibrary.csproj.AssemblyReference.cache
+C:\Users\decei\source\repos\CantSleepProject\PersonalLibrary\obj\Debug\PersonalLibrary.csproj.CoreCompileInputs.cache
+C:\Users\decei\source\repos\CantSleepProject\PersonalLibrary\obj\Debug\PersonalLibrary.dll
+C:\Users\decei\source\repos\CantSleepProject\PersonalLibrary\obj\Debug\PersonalLibrary.pdb
+C:\Users\decei\Desktop\MyProjects\ClusterFuck\Current Version\MyProjects\PersonalLibrary\bin\Debug\PersonalLibrary.dll
+C:\Users\decei\Desktop\MyProjects\ClusterFuck\Current Version\MyProjects\PersonalLibrary\bin\Debug\PersonalLibrary.pdb
+C:\Users\decei\Desktop\MyProjects\ClusterFuck\Current Version\MyProjects\PersonalLibrary\obj\Debug\PersonalLibrary.csproj.AssemblyReference.cache
+C:\Users\decei\Desktop\MyProjects\ClusterFuck\Current Version\MyProjects\PersonalLibrary\obj\Debug\PersonalLibrary.csproj.CoreCompileInputs.cache
+C:\Users\decei\Desktop\MyProjects\ClusterFuck\Current Version\MyProjects\PersonalLibrary\obj\Debug\PersonalLibrary.dll
+C:\Users\decei\Desktop\MyProjects\ClusterFuck\Current Version\MyProjects\PersonalLibrary\obj\Debug\PersonalLibrary.pdb
